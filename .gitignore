@@ -1,0 +1,11 @@
+# 网站是独立 Git 仓库，由其自身管理
+/website/
+
+# 本地迁移与编辑器文件
+/.git-migration-*/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*
+
