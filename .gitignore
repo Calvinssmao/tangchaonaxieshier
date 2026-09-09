@@ -3,9 +3,9 @@
 
 # 本地迁移与编辑器文件
 /.git-migration-*/
+/.vscode/
 .DS_Store
 Thumbs.db
 *.tmp
 *.bak
 ~$*
-
